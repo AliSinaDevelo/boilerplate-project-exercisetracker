@@ -24,9 +24,11 @@ FitMate is built using the following technologies:
 Installation
 
 To install FitMate, you can download the code from our GitHub repository and run it locally on your machine.
+
 Contribution Guidelines
 
 We welcome contributions from anyone who is interested in making FitMate better. If you want to contribute to the project, please read our contribution guidelines before getting started.
+
 Support
 
 If you need any help with FitMate, you can contact me at alisinakarimi5@gmail.com
